@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakibaRahimi
-- 👀 I’m a PhD candidate student in METU
-- 🌱 I’m currently working on my thesis which is about XAI
+- 👀 I’m a Ph.D. candidate at METU
+- 🌱 I’m currently working on my thesis, which is about XAI
 - 💞️ I’m looking to collaborate on deep learnings in medical applications
 - 📫 How to reach me ...
 
